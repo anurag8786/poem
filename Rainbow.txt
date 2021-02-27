@@ -1,4 +1,4 @@
-My Rainbow has Color:
+My Rainbow has Color & Unicorn:
 Violet
 Indigo
 Blue
@@ -6,3 +6,4 @@ Green
 Yellow
 Orange
 Red
+Unicorn
